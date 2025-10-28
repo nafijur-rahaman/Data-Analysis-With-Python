@@ -1,0 +1,4 @@
+Pandas is a core, open-source Python library used for data manipulation and analysis. It is widely used in data science and machine learning for working with structured data, like tables, spreadsheets, or SQL databases. The "basic" part of the query likely refers to the foundational data structures and operations of the librar
+
+Series: A one-dimensional labeled array that can hold data of any type. It is similar to a single column in a spreadsheet.
+DataFrame: A two-dimensional, table-like data structure with labeled axes (rows and columns). It is the most commonly used Pandas object and is highly flexible. 
